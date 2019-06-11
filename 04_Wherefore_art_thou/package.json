@@ -1,0 +1,11 @@
+{
+  "name": "04_wherefore_art_thou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}

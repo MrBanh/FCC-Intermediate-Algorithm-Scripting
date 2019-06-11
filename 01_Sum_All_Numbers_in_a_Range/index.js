@@ -1,3 +1,5 @@
+// https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range
+
 function sumAll(arr) {
     let sum = 0
     let upper, lower;

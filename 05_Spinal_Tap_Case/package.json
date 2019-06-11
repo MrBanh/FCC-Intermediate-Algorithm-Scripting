@@ -1,0 +1,11 @@
+{
+  "name": "05_spinal_tap_case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
