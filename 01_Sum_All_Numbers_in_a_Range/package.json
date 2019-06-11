@@ -1,0 +1,11 @@
+{
+  "name": "01_sum_all_numbers_in_a_range",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
