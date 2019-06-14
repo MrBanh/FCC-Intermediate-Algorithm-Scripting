@@ -1,0 +1,11 @@
+{
+  "name": "12_sum_all_odd_fibonacci_numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
