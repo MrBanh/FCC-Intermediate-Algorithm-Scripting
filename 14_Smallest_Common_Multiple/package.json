@@ -1,0 +1,11 @@
+{
+  "name": "14_smallest_common_multiple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
