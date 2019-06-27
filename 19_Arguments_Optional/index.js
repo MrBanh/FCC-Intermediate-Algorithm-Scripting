@@ -1,4 +1,4 @@
-// https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/argsuments-optional
+// https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional
 function addTogether(...args) {
     // Check for any that are not numbers
     const notANumber = x => {
